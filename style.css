@@ -144,11 +144,13 @@ h4{
     width: 100%;
     padding: 100px 0px;
     background-color: #191919;
-
+    text-shadow: 2px 2px 80px #888888;
 }
+
 .about img{
     height: auto;
     width: 430px;
+    box-shadow: 10px 10px 50px #888888;
 }
 .about-text{
     width: 550px;
@@ -342,6 +344,10 @@ footer p:nth-child(2){
     color: #f9004d;
     bottom: 35px;
     font-size: 14px;
+
+}
+#anchor{
+    text-decoration: none;
 
 }
 
