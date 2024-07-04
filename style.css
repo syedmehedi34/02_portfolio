@@ -50,7 +50,7 @@ nav{
 }
 .logo{
     color: white;
-    font-size: 35px;
+    font-size: 40px;
     letter-spacing: 1px;
     cursor: pointer;
 }
@@ -97,7 +97,7 @@ nav ul li a:hover{
 h1{
     color: white;
     margin: 20px 0px 20px;
-    font-size: 75px;
+    font-size: 70px;
 
 }
 h3{
